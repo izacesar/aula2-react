@@ -1,0 +1,10 @@
+.titulo-menor{
+    font-size: 26px;
+}
+
+.btn-incrementar{
+    margin: 10px;
+    padding: 10px;
+    color: rgb(8, 193, 193);
+    font-weight: bold;
+}
