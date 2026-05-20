@@ -1,6 +1,8 @@
 import "./App.css";
 import BoasVindas from "./componentes/BoasVindas/BoasVindas";
 import CartaoProduto from "./componentes/CartaoProduto/CartaoProduto";
+import Contador2 from "./componentes/Contador2/contador2";
+import Formulario from "./componentes/Formulario/Formulario";
 import MensagemSecreta from "./componentes/MensagemSecreta/MensagemSecreta";
 
 const App = () => {
@@ -34,6 +36,8 @@ const App = () => {
             imagem = "Img-shake.png"
             />
       </div>
+      <Contador2 />
+      <Formulario/>
      </fragment>
   )
 };

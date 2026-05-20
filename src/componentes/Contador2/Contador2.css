@@ -1,0 +1,47 @@
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:  mistyrose;
+    margin: 10px;
+}
+.contador2{
+   justify-content: center;
+    display: flex;
+    margin-top: 20px;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color:  rgb(188, 90, 218);
+    margin: 10px;
+    font-size: 25px;
+
+}
+.btn-incrementar {
+    background-color: #58bebb;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-decrementar {
+    background-color: #9f518d;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-limpar {
+    background-color:  mistyrose;
+    color: rgb(129, 100, 100);
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
